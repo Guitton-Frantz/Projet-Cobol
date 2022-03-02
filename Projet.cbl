@@ -43,7 +43,7 @@
                 IF cr_fca=35 THEN
                 OPEN OUTPUT fca
                 END-IF
-       CLOSE fca.
+       CLOSE fca
      
             STOP RUN.
       ** add other procedures here
