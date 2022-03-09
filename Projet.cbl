@@ -1,16 +1,16 @@
-        ******************************************************************
-        * Author:
-        * Date:
-        * Purpose:
-        * Tectonics: cobc
-        ******************************************************************
-        IDENTIFICATION DIVISION.
-        *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-        PROGRAM-ID. projet.
-        ENVIRONMENT DIVISION.
-        *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-        CONFIGURATION SECTION.
-        *-----------------------
+       ******************************************************************
+       * Author:
+       * Date:
+       * Purpose:
+       * Tectonics: cobc
+       ******************************************************************
+       IDENTIFICATION DIVISION.
+       *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+       PROGRAM-ID. projet.
+       ENVIRONMENT DIVISION.
+       *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+       CONFIGURATION SECTION.
+       *-----------------------
         INPUT-OUTPUT SECTION.
         FILE-CONTROL.
 
